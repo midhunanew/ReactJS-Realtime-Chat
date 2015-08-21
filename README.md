@@ -13,3 +13,11 @@ Then run the app like so:
     node app.js
 
 And navigate to `localhost:3000`
+
+##TODO
+
+opt for chat key
+decrypt messages on hover
+get ip, prevent clones
+add desktop notification
+add groups
